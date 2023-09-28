@@ -54,9 +54,33 @@ Not: sitedeki kodları sırayla giriyoruz. bittikten sonra dashborda geri dönel
 
 ![image](https://github.com/molla202/Subsquid/assets/91562185/a051171b-2f6f-4adc-8afa-951d7dd16619)
 
-### Hata alanalr yada sitede synced den düşenler için.(bence kendi rpcnizi herhalukarda ekleyin)
+### Hata alanlar yada sitede synced den düşenler için.(bence kendi rpcnizi herhalukarda ekleyin)
 
 ![image](https://github.com/molla202/Subsquid/assets/91562185/967020e1-a474-40fb-9db6-f4bc33054711)
+
+![image](https://github.com/molla202/Subsquid/assets/91562185/c6f736f5-1670-41ef-825d-1f6bfd305c40)
+
+* Değişiklik yapılacak yer `adınız` yazan yer altaki resimde yazıyor 
+
+nano /root/adınız/src/processor.ts
+
+![image](https://github.com/molla202/Subsquid/assets/91562185/576a437e-c260-4453-a3c4-77e351c7543b
+
+* daha sonra rpcmizi eklemeliyiz https://dashboard.alchemy.com/ adresinden ve infra dan eth mainnet rpc açıyoruz https olanı eklıyoruz
+
+![image](https://github.com/molla202/Subsquid/assets/91562185/b4e64181-ccdf-4856-ada2-5f15df1b9140)
+
+* daha sonra depoloy işlemini tekrarlamamız gerekiyor. yukarıdaki yerde adınız ve organizasyon adınız nerde yazıyor goruluyor
+
+```
+sqd deploy --org isminiz ./isminiz
+```
+
+* Loglara bakmak için
+```
+npx sqd squid:logs isminiz@v1 -f
+```
+
 
 
 
