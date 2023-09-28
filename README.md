@@ -1,6 +1,7 @@
 
 
 
+![image](https://github.com/molla202/Subsquid/assets/91562185/dfabafe5-da0a-4ea5-85b9-c695b67626a3)
 
 
 
@@ -9,7 +10,7 @@
 | ------------ | ------------ |
 | CPU |	4|
 | RAM	| 8+ GB |
-| Storage	| 500 GB SSD |
+| Storage	| 200 GB SSD |
 
  * [squids](https://app.subsquid.io/squids/)
  * [Başvuru Formu](https://subsquid.deform.cc/testnetnodeapplication/)
