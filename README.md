@@ -51,6 +51,10 @@ sudo apt-get install -y nodejs
 ```
 npm install -g @subsquid/cli
 ```
+Not: altta cıkan kodu çalıştırınız npm fund
+
+![image](https://github.com/molla202/Subsquid/assets/91562185/ec532781-bb9b-4bc3-a916-b93deb1fc1a5)
+
 
 👉 Not: sitedeki kodları sırayla giriyoruz. bittikten sonra dashborda geri dönelim.
 
