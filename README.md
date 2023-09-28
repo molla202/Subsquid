@@ -12,10 +12,10 @@
 | RAM	| 8+ GB |
 | Storage	| 200 GB SSD |
 
- * [squids](https://app.subsquid.io/squids/)
- * [Başvuru Formu](https://subsquid.deform.cc/testnetnodeapplication/)
- * [CoreNode Telegram](https://t.me/corenode)
- * [CoreNode Twitter](https://twitter.com/corenodehq)
+ - [Squids Platform](https://app.subsquid.io/squids/)
+ - [Başvuru Formu](https://subsquid.deform.cc/testnetnodeapplication/)
+ - [CoreNode Telegram](https://t.me/corenode)
+ - [CoreNode Twitter](https://twitter.com/corenodehq)
 
 
 ### Update ve gereklilikleri kuralum
