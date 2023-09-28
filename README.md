@@ -64,7 +64,7 @@ Not: sitedeki kodları sırayla giriyoruz. bittikten sonra dashborda geri dönel
 
 nano /root/adınız/src/processor.ts
 
-![image](https://github.com/molla202/Subsquid/assets/91562185/576a437e-c260-4453-a3c4-77e351c7543b
+![image](https://github.com/molla202/Subsquid/assets/91562185/576a437e-c260-4453-a3c4-77e351c7543b)
 
 * daha sonra rpcmizi eklemeliyiz https://dashboard.alchemy.com/ adresinden ve infra dan eth mainnet rpc açıyoruz https olanı eklıyoruz
 
