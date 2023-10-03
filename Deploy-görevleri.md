@@ -4,7 +4,7 @@
 
 ![image](https://github.com/molla202/Subsquid/assets/91562185/e9011ddf-92a3-46e0-8b0c-2c074ef095e6)
 
-Not: sqd run .       = bu kodu screen açarak çalıştırın sona çok sıkıntı oluyor bağlantı kopunca
+👉 👉 👉 Not: sqd run .       = bu kodu screen açarak çalıştırın sona çok sıkıntı oluyor bağlantı kopunca 👉 👉 👉
 - öncelikle siteden get key deyip indiriyoruz keyimizi
 - daha sonra how to diyoruz
 - dökuman zaten hazır ancak sıfır sunucuya kuracaksanız bazı şeyleri kurmamız gerekıyor
