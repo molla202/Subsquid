@@ -8,6 +8,7 @@
 - öncelikle siteden get key deyip indiriyoruz keyimizi
 - daha sonra how to diyoruz
 - dökuman zaten hazır ancak sıfır sunucuya kuracaksanız bazı şeyleri kurmamız gerekıyor
+- /root/my-quad-proc-squid/query-gateway/ keyler olusturduğumuz my single trible quad dosyalarının içindeki yerlere atıyoruz
 
 # güncelleme ve docker kurulumu
 ```
